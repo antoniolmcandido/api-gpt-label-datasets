@@ -1,3 +1,12 @@
 .env
 /.idea
 /anaconda_projects
+**/batch.z
+**/df_stanford.z
+**/resultado.z
+**/prompts1.jsonl
+**/prompts2.jsonl
+**/prompts3.jsonl
+**/prompts4.jsonl
+**/prompts5.jsonl
+**/prompts6.jsonl
